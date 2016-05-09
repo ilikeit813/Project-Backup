@@ -1,0 +1,389 @@
+Restoring modules to system default
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    temp = np.load(fn[rank*fpp+i])
+NameError: global name 'fpp' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    temp = np.load(fn[rank*fpp+i])
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+NameError:     main(sys.argv[1:])
+global name 'fpp' is not defined
+  File "dva1.py", line 255, in main
+    temp = np.load(fn[rank*fpp+i])
+NameError: global name 'fpp' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+    temp = np.load(fn[rank*fpp+i])
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+NameError    temp = np.load(fn[rank*fpp+i])
+: global name 'fpp' is not defined
+NameError: global name 'fpp' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    temp = np.load(fn[rank*fpp+i])
+NameError: global name 'fpp' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    temp = np.load(fn[rank*fpp+i])
+NameError: global name 'fpp' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+    main(sys.argv[1:])
+      File "dva1.py", line 255, in main
+main(sys.argv[1:])
+    temp = np.load(fn[rank*fpp+i])
+NameError: global name 'fpp' is not defined
+  File "dva1.py", line 255, in main
+    temp = np.load(fn[rank*fpp+i])
+NameError: global name 'fpp' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+    main(sys.argv[1:])
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+  File "dva1.py", line 255, in main
+    main(sys.argv[1:])
+    temp = np.load(fn[rank*fpp+i])
+NameError: global name 'fpp' is not defined
+  File "dva1.py", line 255, in main
+    temp = np.load(fn[rank*fpp+i])
+NameError: global name 'fpp' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    temp = np.load(fn[rank*fpp+i])
+NameError: global name 'fpp' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    temp = np.load(fn[rank*fpp+i])
+NameError: global name 'fpp' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    temp = np.load(fn[rank*fpp+i])
+NameError: global name 'fpp' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    temp = np.load(fn[rank*fpp+i])
+NameError: global name 'fpp' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+temp = np.load(fn[rank*fpp+i])
+NameError:     main(sys.argv[1:])
+global name 'fpp' is not defined
+  File "dva1.py", line 255, in main
+    temp = np.load(fn[rank*fpp+i])
+Traceback (most recent call last):
+NameError: global name 'fpp' is not defined
+  File "dva1.py", line 364, in <module>
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+    main(sys.argv[1:])
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+  File "dva1.py", line 255, in main
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+    temp = np.load(fn[rank*fpp+i])
+NameError: global name 'fpp' is not defined
+    temp = np.load(fn[rank*fpp+i])
+Traceback (most recent call last):
+    main(sys.argv[1:])
+NameError: global name 'fpp' is not defined
+  File "dva1.py", line 364, in <module>
+  File "dva1.py", line 255, in main
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+    main(sys.argv[1:])
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    temp = np.load(fn[rank*fpp+i])
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+NameError: global name 'fpp' is not defined
+    temp = np.load(fn[rank*fpp+i])
+  File "dva1.py", line 255, in main
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    temp = np.load(fn[rank*fpp+i])
+NameError: global name 'fpp' is not defined
+NameError: global name 'fpp' is not defined
+    temp = np.load(fn[rank*fpp+i])
+    NameError: global name 'fpp' is not defined
+temp = np.load(fn[rank*fpp+i])
+NameError: global name 'fpp' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    temp = np.load(fn[rank*fpp+i])
+NameError: global name 'fpp' is not defined
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+  File "dva1.py", line 364, in <module>
+    main(sys.argv[1:])
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+  File "dva1.py", line 255, in main
+    temp = np.load(fn[rank*fpp+i])
+    NameError: global name 'fpp' is not defined
+temp = np.load(fn[rank*fpp+i])
+NameError: global name 'fpp' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    temp = np.load(fn[rank*fpp+i])
+NameError: global name 'fpp' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    temp = np.load(fn[rank*fpp+i])
+NameErrorTraceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+: global name 'fpp' is not defined
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    temp = np.load(fn[rank*fpp+i])
+NameErrorTraceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+: global name 'fpp' is not defined
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    temp = np.load(fn[rank*fpp+i])
+NameError: global name 'fpp' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    temp = np.load(fn[rank*fpp+i])
+NameError: global name 'fpp' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    temp = np.load(fn[rank*fpp+i])
+NameError: global name 'fpp' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    temp = np.load(fn[rank*fpp+i])
+NameError: global name 'fpp' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    temp = np.load(fn[rank*fpp+i])
+NameError: global name 'fpp' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    temp = np.load(fn[rank*fpp+i])
+NameError: global name 'fpp' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    temp = np.load(fn[rank*fpp+i])
+NameError: global name 'fpp' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    main(sys.argv[1:])
+    temp = np.load(fn[rank*fpp+i])
+NameError: global name 'fpp' is not defined
+  File "dva1.py", line 255, in main
+    temp = np.load(fn[rank*fpp+i])
+NameError: global name 'fpp' is not defined
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+  File "dva1.py", line 364, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    main(sys.argv[1:])
+    temp = np.load(fn[rank*fpp+i])
+NameError: global name 'fpp' is not defined
+  File "dva1.py", line 255, in main
+    temp = np.load(fn[rank*fpp+i])
+NameError: global name 'fpp' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    temp = np.load(fn[rank*fpp+i])
+NameError: global name 'fpp' is not defined
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+  File "dva1.py", line 364, in <module>
+        main(sys.argv[1:])
+main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+  File "dva1.py", line 255, in main
+    temp = np.load(fn[rank*fpp+i])
+    temp = np.load(fn[rank*fpp+i])
+NameError: global name 'fpp' is not definedNameError: global name 'fpp' is not defined
+
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    temp = np.load(fn[rank*fpp+i])
+NameError: global name 'fpp' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+    temp = np.load(fn[rank*fpp+i])
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    temp = np.load(fn[rank*fpp+i])
+NameError: global name 'fpp' is not defined
+NameError: global name 'fpp' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    temp = np.load(fn[rank*fpp+i])
+NameError: global name 'fpp' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    temp = np.load(fn[rank*fpp+i])
+NameError: global name 'fpp' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    temp = np.load(fn[rank*fpp+i])
+NameError: global name 'fpp' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    temp = np.load(fn[rank*fpp+i])
+NameError: global name 'fpp' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    temp = np.load(fn[rank*fpp+i])
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+NameError: global name 'fpp' is not defined
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    temp = np.load(fn[rank*fpp+i])
+NameError: global name 'fpp' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    temp = np.load(fn[rank*fpp+i])
+NameError: global name 'fpp' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    temp = np.load(fn[rank*fpp+i])
+NameError: global name 'fpp' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    temp = np.load(fn[rank*fpp+i])
+NameError: global name 'fpp' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    temp = np.load(fn[rank*fpp+i])
+NameError: global name 'fpp' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    temp = np.load(fn[rank*fpp+i])
+NameError: global name 'fpp' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    main(sys.argv[1:])
+    temp = np.load(fn[rank*fpp+i])
+NameError: global name 'fpp' is not defined
+  File "dva1.py", line 255, in main
+    temp = np.load(fn[rank*fpp+i])
+NameError: global name 'fpp' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    temp = np.load(fn[rank*fpp+i])
+NameError: global name 'fpp' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    temp = np.load(fn[rank*fpp+i])
+NameError: global name 'fpp' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    temp = np.load(fn[rank*fpp+i])
+NameError: global name 'fpp' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    temp = np.load(fn[rank*fpp+i])
+NameError: global name 'fpp' is not defined
+--------------------------------------------------------------------------
+mpirun noticed that the job aborted, but has no info as to the process
+that caused that situation.
+--------------------------------------------------------------------------

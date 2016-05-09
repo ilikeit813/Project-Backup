@@ -1,0 +1,81 @@
+Restoring modules to system default
+dv16.py:83: RuntimeWarning: invalid value encountered in divide
+  SNR = (ts-mean)/std
+dv16.py:84: RuntimeWarning: invalid value encountered in less
+  SNR[SNR<thresh]=-1
+dv16.py:83: RuntimeWarning: invalid value encountered in divide
+  SNR = (ts-mean)/std
+dv16.py:84: RuntimeWarning: invalid value encountered in less
+  SNR[SNR<thresh]=-1
+/opt/apps/intel13_1/python/2.7.2/lib/python2.7/site-packages/numpy/core/fromnumeric.py:2374: RuntimeWarning: invalid value encountered in double_scalars
+  return mean(axis, dtype, out)
+/opt/apps/intel13_1/python/2.7.2/lib/python2.7/site-packages/numpy/core/fromnumeric.py:2467: RuntimeWarning: invalid value encountered in double_scalars
+  return std(axis, dtype, out, ddof)
+dv16.py:83: RuntimeWarning: invalid value encountered in divide
+  SNR = (ts-mean)/std
+dv16.py:84: RuntimeWarning: invalid value encountered in less
+  SNR[SNR<thresh]=-1
+/opt/apps/intel13_1/python/2.7.2/lib/python2.7/site-packages/numpy/core/fromnumeric.py:2374: RuntimeWarning: invalid value encountered in double_scalars
+  return mean(axis, dtype, out)
+/opt/apps/intel13_1/python/2.7.2/lib/python2.7/site-packages/numpy/core/fromnumeric.py:2467: RuntimeWarning: invalid value encountered in double_scalars
+  return std(axis, dtype, out, ddof)
+/opt/apps/intel13_1/python/2.7.2/lib/python2.7/site-packages/numpy/core/fromnumeric.py:2374: RuntimeWarning: invalid value encountered in double_scalars
+  return mean(axis, dtype, out)
+/opt/apps/intel13_1/python/2.7.2/lib/python2.7/site-packages/numpy/core/fromnumeric.py:2467: RuntimeWarning: invalid value encountered in double_scalars
+  return std(axis, dtype, out, ddof)
+/opt/apps/intel13_1/python/2.7.2/lib/python2.7/site-packages/numpy/core/fromnumeric.py:2374: RuntimeWarning: invalid value encountered in double_scalars
+  return mean(axis, dtype, out)
+/opt/apps/intel13_1/python/2.7.2/lib/python2.7/site-packages/numpy/core/fromnumeric.py:2467: RuntimeWarning: invalid value encountered in double_scalars
+  return std(axis, dtype, out, ddof)
+/opt/apps/intel13_1/python/2.7.2/lib/python2.7/site-packages/numpy/core/fromnumeric.py:2374: RuntimeWarning: invalid value encountered in double_scalars
+  return mean(axis, dtype, out)
+/opt/apps/intel13_1/python/2.7.2/lib/python2.7/site-packages/numpy/core/fromnumeric.py:2467: RuntimeWarning: invalid value encountered in double_scalars
+  return std(axis, dtype, out, ddof)
+/opt/apps/intel13_1/python/2.7.2/lib/python2.7/site-packages/numpy/core/fromnumeric.py:2374: RuntimeWarning: invalid value encountered in double_scalars
+  return mean(axis, dtype, out)
+/opt/apps/intel13_1/python/2.7.2/lib/python2.7/site-packages/numpy/core/fromnumeric.py:2467: RuntimeWarning: invalid value encountered in double_scalars
+  return std(axis, dtype, out, ddof)
+/opt/apps/intel13_1/python/2.7.2/lib/python2.7/site-packages/numpy/core/fromnumeric.py:2374: RuntimeWarning: invalid value encountered in double_scalars
+  return mean(axis, dtype, out)
+/opt/apps/intel13_1/python/2.7.2/lib/python2.7/site-packages/numpy/core/fromnumeric.py:2467: RuntimeWarning: invalid value encountered in double_scalars
+  return std(axis, dtype, out, ddof)
+/opt/apps/intel13_1/python/2.7.2/lib/python2.7/site-packages/numpy/core/fromnumeric.py:2374: RuntimeWarning: invalid value encountered in double_scalars
+  return mean(axis, dtype, out)
+/opt/apps/intel13_1/python/2.7.2/lib/python2.7/site-packages/numpy/core/fromnumeric.py:2467: RuntimeWarning: invalid value encountered in double_scalars
+  return std(axis, dtype, out, ddof)
+/opt/apps/intel13_1/python/2.7.2/lib/python2.7/site-packages/numpy/core/fromnumeric.py:2374: RuntimeWarning: invalid value encountered in double_scalars
+  return mean(axis, dtype, out)
+/opt/apps/intel13_1/python/2.7.2/lib/python2.7/site-packages/numpy/core/fromnumeric.py:2467: RuntimeWarning: invalid value encountered in double_scalars
+  return std(axis, dtype, out, ddof)
+/opt/apps/intel13_1/python/2.7.2/lib/python2.7/site-packages/numpy/core/fromnumeric.py:2374: RuntimeWarning: invalid value encountered in double_scalars
+  return mean(axis, dtype, out)
+/opt/apps/intel13_1/python/2.7.2/lib/python2.7/site-packages/numpy/core/fromnumeric.py:2467: RuntimeWarning: invalid value encountered in double_scalars
+  return std(axis, dtype, out, ddof)
+/opt/apps/intel13_1/python/2.7.2/lib/python2.7/site-packages/numpy/core/fromnumeric.py:2374: RuntimeWarning: invalid value encountered in double_scalars
+  return mean(axis, dtype, out)
+/opt/apps/intel13_1/python/2.7.2/lib/python2.7/site-packages/numpy/core/fromnumeric.py:2467: RuntimeWarning: invalid value encountered in double_scalars
+  return std(axis, dtype, out, ddof)
+/opt/apps/intel13_1/python/2.7.2/lib/python2.7/site-packages/numpy/core/fromnumeric.py:2374: RuntimeWarning: invalid value encountered in double_scalars
+  return mean(axis, dtype, out)
+/opt/apps/intel13_1/python/2.7.2/lib/python2.7/site-packages/numpy/core/fromnumeric.py:2467: RuntimeWarning: invalid value encountered in double_scalars
+  return std(axis, dtype, out, ddof)
+/opt/apps/intel13_1/python/2.7.2/lib/python2.7/site-packages/numpy/core/fromnumeric.py:2374: RuntimeWarning: invalid value encountered in double_scalars
+  return mean(axis, dtype, out)
+/opt/apps/intel13_1/python/2.7.2/lib/python2.7/site-packages/numpy/core/fromnumeric.py:2467: RuntimeWarning: invalid value encountered in double_scalars
+  return std(axis, dtype, out, ddof)
+/opt/apps/intel13_1/python/2.7.2/lib/python2.7/site-packages/numpy/core/fromnumeric.py:2374: RuntimeWarning: invalid value encountered in double_scalars
+  return mean(axis, dtype, out)
+/opt/apps/intel13_1/python/2.7.2/lib/python2.7/site-packages/numpy/core/fromnumeric.py:2467: RuntimeWarning: invalid value encountered in double_scalars
+  return std(axis, dtype, out, ddof)
+/opt/apps/intel13_1/python/2.7.2/lib/python2.7/site-packages/numpy/core/fromnumeric.py:2374: RuntimeWarning: invalid value encountered in double_scalars
+  return mean(axis, dtype, out)
+/opt/apps/intel13_1/python/2.7.2/lib/python2.7/site-packages/numpy/core/fromnumeric.py:2467: RuntimeWarning: invalid value encountered in double_scalars
+  return std(axis, dtype, out, ddof)
+/opt/apps/intel13_1/python/2.7.2/lib/python2.7/site-packages/numpy/core/fromnumeric.py:2374: RuntimeWarning: invalid value encountered in double_scalars
+  return mean(axis, dtype, out)
+/opt/apps/intel13_1/python/2.7.2/lib/python2.7/site-packages/numpy/core/fromnumeric.py:2467: RuntimeWarning: invalid value encountered in double_scalars
+  return std(axis, dtype, out, ddof)
+/opt/apps/intel13_1/python/2.7.2/lib/python2.7/site-packages/numpy/core/fromnumeric.py:2374: RuntimeWarning: invalid value encountered in double_scalars
+  return mean(axis, dtype, out)
+/opt/apps/intel13_1/python/2.7.2/lib/python2.7/site-packages/numpy/core/fromnumeric.py:2467: RuntimeWarning: invalid value encountered in double_scalars
+  return std(axis, dtype, out, ddof)

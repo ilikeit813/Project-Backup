@@ -1,0 +1,389 @@
+Restoring modules to system default
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    spectarray[i*temp.shape[0] : (i+1)*temp.shape[0],:] = temp/temp.mean()
+NameError: global name 'i' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    spectarray[i*temp.shape[0] : (i+1)*temp.shape[0],:] = temp/temp.mean()
+NameError: global name 'i' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    spectarray[i*temp.shape[0] : (i+1)*temp.shape[0],:] = temp/temp.mean()
+NameError: global name 'i' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    spectarray[i*temp.shape[0] : (i+1)*temp.shape[0],:] = temp/temp.mean()
+NameError: global name 'i' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    spectarray[i*temp.shape[0] : (i+1)*temp.shape[0],:] = temp/temp.mean()
+NameError: global name 'i' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    spectarray[i*temp.shape[0] : (i+1)*temp.shape[0],:] = temp/temp.mean()
+NameError: global name 'i' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    spectarray[i*temp.shape[0] : (i+1)*temp.shape[0],:] = temp/temp.mean()
+NameError: global name 'i' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    spectarray[i*temp.shape[0] : (i+1)*temp.shape[0],:] = temp/temp.mean()
+NameError: global name 'i' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    spectarray[i*temp.shape[0] : (i+1)*temp.shape[0],:] = temp/temp.mean()
+NameError: global name 'i' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    spectarray[i*temp.shape[0] : (i+1)*temp.shape[0],:] = temp/temp.mean()
+NameError: global name 'i' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    spectarray[i*temp.shape[0] : (i+1)*temp.shape[0],:] = temp/temp.mean()
+NameError: global name 'i' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    spectarray[i*temp.shape[0] : (i+1)*temp.shape[0],:] = temp/temp.mean()
+NameError: global name 'i' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    spectarray[i*temp.shape[0] : (i+1)*temp.shape[0],:] = temp/temp.mean()
+NameError: global name 'i' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    spectarray[i*temp.shape[0] : (i+1)*temp.shape[0],:] = temp/temp.mean()
+NameError: global name 'i' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    spectarray[i*temp.shape[0] : (i+1)*temp.shape[0],:] = temp/temp.mean()
+NameError: global name 'i' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    spectarray[i*temp.shape[0] : (i+1)*temp.shape[0],:] = temp/temp.mean()
+NameError: global name 'i' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    spectarray[i*temp.shape[0] : (i+1)*temp.shape[0],:] = temp/temp.mean()
+NameError: global name 'i' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    spectarray[i*temp.shape[0] : (i+1)*temp.shape[0],:] = temp/temp.mean()
+NameError: global name 'i' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    spectarray[i*temp.shape[0] : (i+1)*temp.shape[0],:] = temp/temp.mean()
+NameError: global name 'i' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    spectarray[i*temp.shape[0] : (i+1)*temp.shape[0],:] = temp/temp.mean()
+NameError: global name 'i' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    spectarray[i*temp.shape[0] : (i+1)*temp.shape[0],:] = temp/temp.mean()
+NameError: global name 'i' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    spectarray[i*temp.shape[0] : (i+1)*temp.shape[0],:] = temp/temp.mean()
+NameError: global name 'i' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    spectarray[i*temp.shape[0] : (i+1)*temp.shape[0],:] = temp/temp.mean()
+NameError: global name 'i' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    spectarray[i*temp.shape[0] : (i+1)*temp.shape[0],:] = temp/temp.mean()
+NameError: global name 'i' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    spectarray[i*temp.shape[0] : (i+1)*temp.shape[0],:] = temp/temp.mean()
+NameError: global name 'i' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    spectarray[i*temp.shape[0] : (i+1)*temp.shape[0],:] = temp/temp.mean()
+NameError: global name 'i' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    spectarray[i*temp.shape[0] : (i+1)*temp.shape[0],:] = temp/temp.mean()
+NameError: global name 'i' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    spectarray[i*temp.shape[0] : (i+1)*temp.shape[0],:] = temp/temp.mean()
+NameError: global name 'i' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    spectarray[i*temp.shape[0] : (i+1)*temp.shape[0],:] = temp/temp.mean()
+NameError: global name 'i' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    spectarray[i*temp.shape[0] : (i+1)*temp.shape[0],:] = temp/temp.mean()
+NameError: global name 'i' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    spectarray[i*temp.shape[0] : (i+1)*temp.shape[0],:] = temp/temp.mean()
+NameError: global name 'i' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    spectarray[i*temp.shape[0] : (i+1)*temp.shape[0],:] = temp/temp.mean()
+NameError: global name 'i' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    spectarray[i*temp.shape[0] : (i+1)*temp.shape[0],:] = temp/temp.mean()
+NameError: global name 'i' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    spectarray[i*temp.shape[0] : (i+1)*temp.shape[0],:] = temp/temp.mean()
+NameError: global name 'i' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    spectarray[i*temp.shape[0] : (i+1)*temp.shape[0],:] = temp/temp.mean()
+NameError: global name 'i' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    spectarray[i*temp.shape[0] : (i+1)*temp.shape[0],:] = temp/temp.mean()
+NameError: global name 'i' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    spectarray[i*temp.shape[0] : (i+1)*temp.shape[0],:] = temp/temp.mean()
+NameError: global name 'i' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    spectarray[i*temp.shape[0] : (i+1)*temp.shape[0],:] = temp/temp.mean()
+NameError: global name 'i' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    spectarray[i*temp.shape[0] : (i+1)*temp.shape[0],:] = temp/temp.mean()
+NameError: global name 'i' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    spectarray[i*temp.shape[0] : (i+1)*temp.shape[0],:] = temp/temp.mean()
+NameError: global name 'i' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    spectarray[i*temp.shape[0] : (i+1)*temp.shape[0],:] = temp/temp.mean()
+NameError: global name 'i' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    spectarray[i*temp.shape[0] : (i+1)*temp.shape[0],:] = temp/temp.mean()
+NameError: global name 'i' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    spectarray[i*temp.shape[0] : (i+1)*temp.shape[0],:] = temp/temp.mean()
+NameError: global name 'i' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    spectarray[i*temp.shape[0] : (i+1)*temp.shape[0],:] = temp/temp.mean()
+NameError: global name 'i' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    spectarray[i*temp.shape[0] : (i+1)*temp.shape[0],:] = temp/temp.mean()
+NameError: global name 'i' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    spectarray[i*temp.shape[0] : (i+1)*temp.shape[0],:] = temp/temp.mean()
+NameError: global name 'i' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    spectarray[i*temp.shape[0] : (i+1)*temp.shape[0],:] = temp/temp.mean()
+NameError: global name 'i' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    spectarray[i*temp.shape[0] : (i+1)*temp.shape[0],:] = temp/temp.mean()
+NameError: global name 'i' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    spectarray[i*temp.shape[0] : (i+1)*temp.shape[0],:] = temp/temp.mean()
+NameError: global name 'i' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    spectarray[i*temp.shape[0] : (i+1)*temp.shape[0],:] = temp/temp.mean()
+NameError: global name 'i' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    spectarray[i*temp.shape[0] : (i+1)*temp.shape[0],:] = temp/temp.mean()
+NameError: global name 'i' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    spectarray[i*temp.shape[0] : (i+1)*temp.shape[0],:] = temp/temp.mean()
+NameError: global name 'i' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    spectarray[i*temp.shape[0] : (i+1)*temp.shape[0],:] = temp/temp.mean()
+NameError: global name 'i' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    spectarray[i*temp.shape[0] : (i+1)*temp.shape[0],:] = temp/temp.mean()
+NameError: global name 'i' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    spectarray[i*temp.shape[0] : (i+1)*temp.shape[0],:] = temp/temp.mean()
+NameError: global name 'i' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    spectarray[i*temp.shape[0] : (i+1)*temp.shape[0],:] = temp/temp.mean()
+NameError: global name 'i' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    spectarray[i*temp.shape[0] : (i+1)*temp.shape[0],:] = temp/temp.mean()
+NameError: global name 'i' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    spectarray[i*temp.shape[0] : (i+1)*temp.shape[0],:] = temp/temp.mean()
+NameError: global name 'i' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    spectarray[i*temp.shape[0] : (i+1)*temp.shape[0],:] = temp/temp.mean()
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    spectarray[i*temp.shape[0] : (i+1)*temp.shape[0],:] = temp/temp.mean()
+NameError: global name 'i' is not defined
+NameError: global name 'i' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    spectarray[i*temp.shape[0] : (i+1)*temp.shape[0],:] = temp/temp.mean()
+NameError: global name 'i' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    spectarray[i*temp.shape[0] : (i+1)*temp.shape[0],:] = temp/temp.mean()
+NameError: global name 'i' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    spectarray[i*temp.shape[0] : (i+1)*temp.shape[0],:] = temp/temp.mean()
+NameError: global name 'i' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 255, in main
+    spectarray[i*temp.shape[0] : (i+1)*temp.shape[0],:] = temp/temp.mean()
+NameError: global name 'i' is not defined
+--------------------------------------------------------------------------
+mpirun noticed that the job aborted, but has no info as to the process
+that caused that situation.
+--------------------------------------------------------------------------

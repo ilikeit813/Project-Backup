@@ -1,0 +1,1797 @@
+Restoring modules to system default
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+Traceback (most recent call last):
+  File "ts2.py", line 175, in <module>
+    stdall[i,rank,0]=spectarray[i,:,0,:].std()
+NameError: name 'stdall' is not defined
+--------------------------------------------------------------------------
+mpirun noticed that the job aborted, but has no info as to the process
+that caused that situation.
+--------------------------------------------------------------------------

@@ -1,0 +1,197 @@
+Restoring modules to system default
+Traceback (most recent call last):
+  File "dva0.py", line 329, in <module>
+    main(sys.argv[1:])
+  File "dva0.py", line 280, in main
+Traceback (most recent call last):
+  File "dva0.py", line 329, in <module>
+    main(sys.argv[1:])
+  File "dva0.py", line 280, in main
+    npws = int(np.round(np.log2(maxpw/tInt)))+1 # +1 Due to in range(y) it goes to y-1 only
+NameError: global name 'maxpw' is not defined
+    npws = int(np.round(np.log2(maxpw/tInt)))+1 # +1 Due to in range(y) it goes to y-1 only
+NameError: global name 'maxpw' is not defined
+Traceback (most recent call last):
+  File "dva0.py", line 329, in <module>
+    main(sys.argv[1:])
+  File "dva0.py", line 280, in main
+    npws = int(np.round(np.log2(maxpw/tInt)))+1 # +1 Due to in range(y) it goes to y-1 only
+NameError: global name 'maxpw' is not defined
+Traceback (most recent call last):
+  File "dva0.py", line 329, in <module>
+    main(sys.argv[1:])
+  File "dva0.py", line 280, in main
+    npws = int(np.round(np.log2(maxpw/tInt)))+1 # +1 Due to in range(y) it goes to y-1 only
+NameError: global name 'maxpw' is not defined
+Traceback (most recent call last):
+  File "dva0.py", line 329, in <module>
+    main(sys.argv[1:])
+Traceback (most recent call last):
+  File "dva0.py", line 329, in <module>
+  File "dva0.py", line 280, in main
+    npws = int(np.round(np.log2(maxpw/tInt)))+1 # +1 Due to in range(y) it goes to y-1 only
+    main(sys.argv[1:])
+  File "dva0.py", line 280, in main
+NameError: global name 'maxpw' is not defined
+    npws = int(np.round(np.log2(maxpw/tInt)))+1 # +1 Due to in range(y) it goes to y-1 only
+NameError: global name 'maxpw' is not defined
+Traceback (most recent call last):
+  File "dva0.py", line 329, in <module>
+Traceback (most recent call last):
+  File "dva0.py", line 329, in <module>
+    main(sys.argv[1:])
+  File "dva0.py", line 280, in main
+    main(sys.argv[1:])
+  File "dva0.py", line 280, in main
+    npws = int(np.round(np.log2(maxpw/tInt)))+1 # +1 Due to in range(y) it goes to y-1 only
+NameError: global name 'maxpw' is not defined
+    npws = int(np.round(np.log2(maxpw/tInt)))+1 # +1 Due to in range(y) it goes to y-1 only
+NameError: global name 'maxpw' is not defined
+Traceback (most recent call last):
+  File "dva0.py", line 329, in <module>
+    main(sys.argv[1:])
+Traceback (most recent call last):
+  File "dva0.py", line 329, in <module>
+  File "dva0.py", line 280, in main
+    main(sys.argv[1:])
+    npws = int(np.round(np.log2(maxpw/tInt)))+1 # +1 Due to in range(y) it goes to y-1 only
+  File "dva0.py", line 280, in main
+NameError: global name 'maxpw' is not defined
+    npws = int(np.round(np.log2(maxpw/tInt)))+1 # +1 Due to in range(y) it goes to y-1 only
+NameError: global name 'maxpw' is not defined
+Traceback (most recent call last):
+  File "dva0.py", line 329, in <module>
+    main(sys.argv[1:])
+  File "dva0.py", line 280, in main
+Traceback (most recent call last):
+  File "dva0.py", line 329, in <module>
+    npws = int(np.round(np.log2(maxpw/tInt)))+1 # +1 Due to in range(y) it goes to y-1 only
+NameError: global name 'maxpw' is not defined
+    main(sys.argv[1:])
+  File "dva0.py", line 280, in main
+    npws = int(np.round(np.log2(maxpw/tInt)))+1 # +1 Due to in range(y) it goes to y-1 only
+Traceback (most recent call last):
+  File "dva0.py", line 329, in <module>
+NameError: global name 'maxpw' is not defined
+    main(sys.argv[1:])
+  File "dva0.py", line 280, in main
+    npws = int(np.round(np.log2(maxpw/tInt)))+1 # +1 Due to in range(y) it goes to y-1 only
+NameError: global name 'maxpw' is not defined
+Traceback (most recent call last):
+  File "dva0.py", line 329, in <module>
+    main(sys.argv[1:])
+  File "dva0.py", line 280, in main
+    npws = int(np.round(np.log2(maxpw/tInt)))+1 # +1 Due to in range(y) it goes to y-1 only
+NameError: global name 'maxpw' is not defined
+Traceback (most recent call last):
+  File "dva0.py", line 329, in <module>
+    main(sys.argv[1:])
+  File "dva0.py", line 280, in main
+Traceback (most recent call last):
+  File "dva0.py", line 329, in <module>
+    npws = int(np.round(np.log2(maxpw/tInt)))+1 # +1 Due to in range(y) it goes to y-1 only
+NameError: global name 'maxpw' is not defined
+    main(sys.argv[1:])
+  File "dva0.py", line 280, in main
+    npws = int(np.round(np.log2(maxpw/tInt)))+1 # +1 Due to in range(y) it goes to y-1 only
+NameError: global name 'maxpw' is not defined
+Traceback (most recent call last):
+  File "dva0.py", line 329, in <module>
+    main(sys.argv[1:])
+  File "dva0.py", line 280, in main
+    npws = int(np.round(np.log2(maxpw/tInt)))+1 # +1 Due to in range(y) it goes to y-1 only
+NameError: global name 'maxpw' is not defined
+Traceback (most recent call last):
+  File "dva0.py", line 329, in <module>
+    main(sys.argv[1:])
+  File "dva0.py", line 280, in main
+    npws = int(np.round(np.log2(maxpw/tInt)))+1 # +1 Due to in range(y) it goes to y-1 only
+NameError: global name 'maxpw' is not defined
+Traceback (most recent call last):
+  File "dva0.py", line 329, in <module>
+    main(sys.argv[1:])
+  File "dva0.py", line 280, in main
+    npws = int(np.round(np.log2(maxpw/tInt)))+1 # +1 Due to in range(y) it goes to y-1 only
+NameError: global name 'maxpw' is not defined
+Traceback (most recent call last):
+  File "dva0.py", line 329, in <module>
+    main(sys.argv[1:])
+  File "dva0.py", line 280, in main
+    npws = int(np.round(np.log2(maxpw/tInt)))+1 # +1 Due to in range(y) it goes to y-1 only
+NameError: global name 'maxpw' is not defined
+Traceback (most recent call last):
+  File "dva0.py", line 329, in <module>
+    main(sys.argv[1:])
+  File "dva0.py", line 280, in main
+    npws = int(np.round(np.log2(maxpw/tInt)))+1 # +1 Due to in range(y) it goes to y-1 only
+NameError: global name 'maxpw' is not defined
+Traceback (most recent call last):
+  File "dva0.py", line 329, in <module>
+    main(sys.argv[1:])
+  File "dva0.py", line 280, in main
+    npws = int(np.round(np.log2(maxpw/tInt)))+1 # +1 Due to in range(y) it goes to y-1 only
+NameError: global name 'maxpw' is not defined
+Traceback (most recent call last):
+  File "dva0.py", line 329, in <module>
+    main(sys.argv[1:])
+  File "dva0.py", line 280, in main
+    npws = int(np.round(np.log2(maxpw/tInt)))+1 # +1 Due to in range(y) it goes to y-1 only
+NameError: global name 'maxpw' is not defined
+Traceback (most recent call last):
+  File "dva0.py", line 329, in <module>
+    main(sys.argv[1:])
+  File "dva0.py", line 280, in main
+    npws = int(np.round(np.log2(maxpw/tInt)))+1 # +1 Due to in range(y) it goes to y-1 only
+NameError: global name 'maxpw' is not defined
+Traceback (most recent call last):
+  File "dva0.py", line 329, in <module>
+    main(sys.argv[1:])
+  File "dva0.py", line 280, in main
+    npws = int(np.round(np.log2(maxpw/tInt)))+1 # +1 Due to in range(y) it goes to y-1 only
+NameError: global name 'maxpw' is not defined
+Traceback (most recent call last):
+  File "dva0.py", line 329, in <module>
+    main(sys.argv[1:])
+  File "dva0.py", line 280, in main
+    npws = int(np.round(np.log2(maxpw/tInt)))+1 # +1 Due to in range(y) it goes to y-1 only
+NameError: global name 'maxpw' is not defined
+Traceback (most recent call last):
+  File "dva0.py", line 329, in <module>
+    main(sys.argv[1:])
+  File "dva0.py", line 280, in main
+    npws = int(np.round(np.log2(maxpw/tInt)))+1 # +1 Due to in range(y) it goes to y-1 only
+NameError: global name 'maxpw' is not defined
+Traceback (most recent call last):
+  File "dva0.py", line 329, in <module>
+    main(sys.argv[1:])
+  File "dva0.py", line 280, in main
+    npws = int(np.round(np.log2(maxpw/tInt)))+1 # +1 Due to in range(y) it goes to y-1 only
+NameError: global name 'maxpw' is not defined
+Traceback (most recent call last):
+  File "dva0.py", line 329, in <module>
+    main(sys.argv[1:])
+  File "dva0.py", line 280, in main
+    npws = int(np.round(np.log2(maxpw/tInt)))+1 # +1 Due to in range(y) it goes to y-1 only
+NameError: global name 'maxpw' is not defined
+Traceback (most recent call last):
+  File "dva0.py", line 329, in <module>
+    main(sys.argv[1:])
+  File "dva0.py", line 280, in main
+    npws = int(np.round(np.log2(maxpw/tInt)))+1 # +1 Due to in range(y) it goes to y-1 only
+NameError: global name 'maxpw' is not defined
+Traceback (most recent call last):
+  File "dva0.py", line 329, in <module>
+    main(sys.argv[1:])
+  File "dva0.py", line 280, in main
+    npws = int(np.round(np.log2(maxpw/tInt)))+1 # +1 Due to in range(y) it goes to y-1 only
+NameError: global name 'maxpw' is not defined
+Traceback (most recent call last):
+  File "dva0.py", line 329, in <module>
+    main(sys.argv[1:])
+  File "dva0.py", line 280, in main
+    npws = int(np.round(np.log2(maxpw/tInt)))+1 # +1 Due to in range(y) it goes to y-1 only
+NameError: global name 'maxpw' is not defined
+--------------------------------------------------------------------------
+mpirun noticed that the job aborted, but has no info as to the process
+that caused that situation.
+--------------------------------------------------------------------------

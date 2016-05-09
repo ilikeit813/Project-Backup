@@ -1,0 +1,389 @@
+Restoring modules to system default
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+  File "dva1.py", line 364, in <module>
+    main(sys.argv[1:])
+    main(sys.argv[1:])
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+    main(sys.argv[1:])
+    main(sys.argv[1:])
+    main(sys.argv[1:])
+    main(sys.argv[1:])
+    main(sys.argv[1:])
+  File "dva1.py", line 248, in main
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+  File "dva1.py", line 248, in main
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+  File "dva1.py", line 248, in main
+    main(sys.argv[1:])
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+    main(sys.argv[1:])
+    main(sys.argv[1:])
+  File "dva1.py", line 248, in main
+  File "dva1.py", line 248, in main
+  File "dva1.py", line 248, in main
+  File "dva1.py", line 248, in main
+    main(sys.argv[1:])
+    main(sys.argv[1:])
+  File "dva1.py", line 248, in main
+    main(sys.argv[1:])
+    fn = sorteg(glob.glob('05*.npy'))
+    main(sys.argv[1:])
+NameError: global name 'sorteg' is not defined
+    main(sys.argv[1:])
+    main(sys.argv[1:])
+    main(sys.argv[1:])
+    fn = sorteg(glob.glob('05*.npy'))
+NameErrorTraceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+  File "dva1.py", line 248, in main
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+    main(sys.argv[1:])
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+  File "dva1.py", line 248, in main
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+: global name 'sorteg' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+  File "dva1.py", line 248, in main
+  File "dva1.py", line 248, in main
+  File "dva1.py", line 248, in main
+  File "dva1.py", line 248, in main
+  File "dva1.py", line 248, in main
+    main(sys.argv[1:])
+  File "dva1.py", line 248, in main
+  File "dva1.py", line 248, in main
+    fn = sorteg(glob.glob('05*.npy'))
+  File "dva1.py", line 248, in main
+    main(sys.argv[1:])
+    main(sys.argv[1:])
+    fn = sorteg(glob.glob('05*.npy'))
+    fn = sorteg(glob.glob('05*.npy'))
+    fn = sorteg(glob.glob('05*.npy'))
+  File "dva1.py", line 248, in main
+    main(sys.argv[1:])
+    main(sys.argv[1:])
+  File "dva1.py", line 248, in main
+NameError: global name 'sorteg' is not defined
+NameError: global name 'sorteg' is not defined
+  File "dva1.py", line 248, in main
+    fn = sorteg(glob.glob('05*.npy'))
+NameError: global name 'sorteg' is not defined
+    main(sys.argv[1:])
+NameError: global name 'sorteg' is not defined
+    fn = sorteg(glob.glob('05*.npy'))
+NameError: global name 'sorteg' is not defined
+NameError: global name 'sorteg' is not defined
+    fn = sorteg(glob.glob('05*.npy'))
+NameError: global name 'sorteg' is not defined
+    main(sys.argv[1:])
+    main(sys.argv[1:])
+    fn = sorteg(glob.glob('05*.npy'))
+    main(sys.argv[1:])
+NameError: global name 'sorteg' is not defined
+    main(sys.argv[1:])
+  File "dva1.py", line 248, in main
+  File "dva1.py", line 248, in main
+    fn = sorteg(glob.glob('05*.npy'))
+NameError: global name 'sorteg' is not defined
+    fn = sorteg(glob.glob('05*.npy'))
+    fn = sorteg(glob.glob('05*.npy'))
+    fn = sorteg(glob.glob('05*.npy'))
+    fn = sorteg(glob.glob('05*.npy'))
+NameError: global name 'sorteg' is not defined
+    fn = sorteg(glob.glob('05*.npy'))
+    main(sys.argv[1:])
+    fn = sorteg(glob.glob('05*.npy'))
+    fn = sorteg(glob.glob('05*.npy'))
+  File "dva1.py", line 248, in main
+NameError: global name 'sorteg' is not defined
+  File "dva1.py", line 248, in main
+    fn = sorteg(glob.glob('05*.npy'))
+    fn = sorteg(glob.glob('05*.npy'))
+    fn = sorteg(glob.glob('05*.npy'))
+    fn = sorteg(glob.glob('05*.npy'))
+  File "dva1.py", line 248, in main
+  File "dva1.py", line 248, in main
+  File "dva1.py", line 248, in main
+  File "dva1.py", line 248, in main
+NameError: global name 'sorteg' is not defined
+    fn = sorteg(glob.glob('05*.npy'))
+NameError: global name 'sorteg' is not defined
+NameError    fn = sorteg(glob.glob('05*.npy'))
+    fn = sorteg(glob.glob('05*.npy'))
+:     fn = sorteg(glob.glob('05*.npy'))
+    fn = sorteg(glob.glob('05*.npy'))
+global name 'sorteg' is not defined
+NameError: global name 'sorteg' is not defined
+NameErrorNameError: global name 'sorteg' is not defined
+NameError: global name 'sorteg' is not defined
+NameError: global name 'sorteg' is not defined
+: global name 'sorteg' is not defined
+        fn = sorteg(glob.glob('05*.npy'))
+NameError: global name 'sorteg' is not defined
+fn = sorteg(glob.glob('05*.npy'))
+    main(sys.argv[1:])
+NameError: global name 'sorteg' is not defined
+NameError: global name 'sorteg' is not defined
+NameError: global name 'sorteg' is not defined
+NameError: global name 'sorteg' is not defined
+NameError: global name 'sorteg' is not defined
+NameError: global name 'sorteg' is not defined
+    main(sys.argv[1:])
+NameError: global name 'sorteg' is not defined
+  File "dva1.py", line 248, in main
+    main(sys.argv[1:])
+  File "dva1.py", line 248, in main
+    fn = sorteg(glob.glob('05*.npy'))
+  File "dva1.py", line 248, in main
+    fn = sorteg(glob.glob('05*.npy'))
+NameError: global name 'sorteg' is not defined
+NameError: global name 'sorteg' is not defined
+    fn = sorteg(glob.glob('05*.npy'))
+NameError: global name 'sorteg' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 248, in main
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 248, in main
+    fn = sorteg(glob.glob('05*.npy'))
+NameError: Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+global name 'sorteg' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+    fn = sorteg(glob.glob('05*.npy'))
+NameError: global name 'sorteg' is not defined
+    main(sys.argv[1:])
+  File "dva1.py", line 248, in main
+    main(sys.argv[1:])
+  File "dva1.py", line 248, in main
+    main(sys.argv[1:])
+  File "dva1.py", line 248, in main
+    main(sys.argv[1:])
+  File "dva1.py", line 248, in main
+    fn = sorteg(glob.glob('05*.npy'))
+    main(sys.argv[1:])
+  File "dva1.py", line 248, in main
+NameError: global name 'sorteg' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+    fn = sorteg(glob.glob('05*.npy'))
+NameError: global name 'sorteg' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+    fn = sorteg(glob.glob('05*.npy'))
+NameError: global name 'sorteg' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+    fn = sorteg(glob.glob('05*.npy'))
+NameError: global name 'sorteg' is not defined
+    fn = sorteg(glob.glob('05*.npy'))
+    main(sys.argv[1:])
+  File "dva1.py", line 248, in main
+NameError: global name 'sorteg' is not defined
+    main(sys.argv[1:])
+  File "dva1.py", line 248, in main
+    main(sys.argv[1:])
+  File "dva1.py", line 248, in main
+    main(sys.argv[1:])
+  File "dva1.py", line 248, in main
+    main(sys.argv[1:])
+  File "dva1.py", line 248, in main
+    main(sys.argv[1:])
+    main(sys.argv[1:])
+  File "dva1.py", line 248, in main
+  File "dva1.py", line 248, in main
+    main(sys.argv[1:])
+  File "dva1.py", line 248, in main
+    main(sys.argv[1:])
+  File "dva1.py", line 248, in main
+    fn = sorteg(glob.glob('05*.npy'))
+NameError: global name 'sorteg' is not defined
+    fn = sorteg(glob.glob('05*.npy'))
+    fn = sorteg(glob.glob('05*.npy'))
+NameError: global name 'sorteg' is not defined
+NameError: global name 'sorteg' is not defined
+    fn = sorteg(glob.glob('05*.npy'))
+NameError: global name 'sorteg' is not defined
+    fn = sorteg(glob.glob('05*.npy'))
+NameError:     fn = sorteg(glob.glob('05*.npy'))
+NameError: global name 'sorteg' is not defined
+    fn = sorteg(glob.glob('05*.npy'))
+global name 'sorteg' is not defined
+    fn = sorteg(glob.glob('05*.npy'))
+NameError: global name 'sorteg' is not defined
+NameError: global name 'sorteg' is not defined
+    fn = sorteg(glob.glob('05*.npy'))
+NameError: global name 'sorteg' is not defined
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+  File "dva1.py", line 364, in <module>
+        main(sys.argv[1:])
+  File "dva1.py", line 248, in main
+main(sys.argv[1:])
+    main(sys.argv[1:])
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+  File "dva1.py", line 248, in main
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+    main(sys.argv[1:])
+    fn = sorteg(glob.glob('05*.npy'))
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+  File "dva1.py", line 248, in main
+  File "dva1.py", line 248, in main
+NameError: global name 'sorteg' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+    main(sys.argv[1:])
+    main(sys.argv[1:])
+    fn = sorteg(glob.glob('05*.npy'))
+    main(sys.argv[1:])
+Traceback (most recent call last):
+  File "dva1.py", line 364, in <module>
+    main(sys.argv[1:])
+    main(sys.argv[1:])
+    main(sys.argv[1:])
+    main(sys.argv[1:])
+  File "dva1.py", line 248, in main
+    main(sys.argv[1:])
+NameError: global name 'sorteg' is not defined
+    main(sys.argv[1:])
+  File "dva1.py", line 248, in main
+  File "dva1.py", line 248, in main
+  File "dva1.py", line 248, in main
+    main(sys.argv[1:])
+    main(sys.argv[1:])
+  File "dva1.py", line 248, in main
+  File "dva1.py", line 248, in main
+  File "dva1.py", line 248, in main
+  File "dva1.py", line 248, in main
+    fn = sorteg(glob.glob('05*.npy'))
+  File "dva1.py", line 248, in main
+    fn = sorteg(glob.glob('05*.npy'))
+    main(sys.argv[1:])
+    fn = sorteg(glob.glob('05*.npy'))
+  File "dva1.py", line 248, in main
+    fn = sorteg(glob.glob('05*.npy'))
+    fn = sorteg(glob.glob('05*.npy'))
+  File "dva1.py", line 248, in main
+NameError: global name 'sorteg' is not defined
+    fn = sorteg(glob.glob('05*.npy'))
+NameError: global name 'sorteg' is not defined
+  File "dva1.py", line 248, in main
+    fn = sorteg(glob.glob('05*.npy'))
+NameError: global name 'sorteg' is not defined
+    fn = sorteg(glob.glob('05*.npy'))
+    fn = sorteg(glob.glob('05*.npy'))
+    fn = sorteg(glob.glob('05*.npy'))
+    fn = sorteg(glob.glob('05*.npy'))
+NameError: global name 'sorteg' is not defined
+    fn = sorteg(glob.glob('05*.npy'))
+NameError: global name 'sorteg' is not defined
+    fn = sorteg(glob.glob('05*.npy'))
+NameError: global name 'sorteg' is not defined
+NameError: global name 'sorteg' is not defined
+    fn = sorteg(glob.glob('05*.npy'))
+NameError: global name 'sorteg' is not defined
+NameError: global name 'sorteg' is not defined
+NameError: global name 'sorteg' is not defined
+NameError: global name 'sorteg' is not defined
+NameError: global name 'sorteg' is not defined
+NameError: global name 'sorteg' is not defined
+NameError: global name 'sorteg' is not defined
+--------------------------------------------------------------------------
+mpirun noticed that the job aborted, but has no info as to the process
+that caused that situation.
+--------------------------------------------------------------------------

@@ -1,0 +1,197 @@
+Restoring modules to system default
+Traceback (most recent call last):
+  File "dva0.py", line 327, in <module>
+Traceback (most recent call last):
+  File "dva0.py", line 327, in <module>
+    main(sys.argv[1:])
+  File "dva0.py", line 247, in main
+    main(sys.argv[1:])
+Traceback (most recent call last):
+  File "dva0.py", line 327, in <module>
+Traceback (most recent call last):
+  File "dva0.py", line 327, in <module>
+  File "dva0.py", line 247, in main
+    fh = open(getopt.getopt(args,':')[1][0], "rb")
+IOError: [Errno 2] No such file or directory: '057139_000656029'
+    main(sys.argv[1:])
+  File "dva0.py", line 247, in main
+    main(sys.argv[1:])
+  File "dva0.py", line 247, in main
+    fh = open(getopt.getopt(args,':')[1][0], "rb")
+IOError: [Errno 2] No such file or directory: '057139_000656029'
+Traceback (most recent call last):
+  File "dva0.py", line 327, in <module>
+    fh = open(getopt.getopt(args,':')[1][0], "rb")
+IOError: [Errno 2] No such file or directory: '057139_000656029'
+    fh = open(getopt.getopt(args,':')[1][0], "rb")
+IOError: [Errno 2] No such file or directory: '057139_000656029'
+Traceback (most recent call last):
+  File "dva0.py", line 327, in <module>
+    main(sys.argv[1:])
+  File "dva0.py", line 247, in main
+    main(sys.argv[1:])
+  File "dva0.py", line 247, in main
+    fh = open(getopt.getopt(args,':')[1][0], "rb")
+IOError: [Errno 2] No such file or directory: '057139_000656029'
+    fh = open(getopt.getopt(args,':')[1][0], "rb")
+Traceback (most recent call last):
+  File "dva0.py", line 327, in <module>
+IOError: [Errno 2] No such file or directory: '057139_000656029'
+Traceback (most recent call last):
+  File "dva0.py", line 327, in <module>
+    main(sys.argv[1:])
+  File "dva0.py", line 247, in main
+Traceback (most recent call last):
+  File "dva0.py", line 327, in <module>
+    main(sys.argv[1:])
+  File "dva0.py", line 247, in main
+    Traceback (most recent call last):
+  File "dva0.py", line 327, in <module>
+    fh = open(getopt.getopt(args,':')[1][0], "rb")
+IOError: [Errno 2] No such file or directory: '057139_000656029'
+Traceback (most recent call last):
+  File "dva0.py", line 327, in <module>
+    main(sys.argv[1:])
+  File "dva0.py", line 247, in main
+    main(sys.argv[1:])
+  File "dva0.py", line 247, in main
+Traceback (most recent call last):
+  File "dva0.py", line 327, in <module>
+fh = open(getopt.getopt(args,':')[1][0], "rb")
+IOError: [Errno 2] No such file or directory: '057139_000656029'
+    main(sys.argv[1:])
+  File "dva0.py", line 247, in main
+    fh = open(getopt.getopt(args,':')[1][0], "rb")
+IOError: [Errno 2] No such file or directory: '057139_000656029'
+    fh = open(getopt.getopt(args,':')[1][0], "rb")
+    fh = open(getopt.getopt(args,':')[1][0], "rb")
+IOError: [Errno 2] No such file or directory: '057139_000656029'
+    main(sys.argv[1:])
+IOError: [Errno 2] No such file or directory: '057139_000656029'
+  File "dva0.py", line 247, in main
+Traceback (most recent call last):
+  File "dva0.py", line 327, in <module>
+Traceback (most recent call last):
+  File "dva0.py", line 327, in <module>
+    main(sys.argv[1:])
+  File "dva0.py", line 247, in main
+    fh = open(getopt.getopt(args,':')[1][0], "rb")
+IOErrorTraceback (most recent call last):
+  File "dva0.py", line 327, in <module>
+: [Errno 2] No such file or directory: '057139_000656029'
+    fh = open(getopt.getopt(args,':')[1][0], "rb")
+IOError: [Errno 2] No such file or directory: '057139_000656029'
+        main(sys.argv[1:])
+  File "dva0.py", line 247, in main
+main(sys.argv[1:])
+  File "dva0.py", line 247, in main
+    fh = open(getopt.getopt(args,':')[1][0], "rb")
+IOError: [Errno 2] No such file or directory: '057139_000656029'
+    fh = open(getopt.getopt(args,':')[1][0], "rb")
+IOError: [Errno 2] No such file or directory: '057139_000656029'
+Traceback (most recent call last):
+  File "dva0.py", line 327, in <module>
+    main(sys.argv[1:])
+  File "dva0.py", line 247, in main
+    fh = open(getopt.getopt(args,':')[1][0], "rb")
+IOError: [Errno 2] No such file or directory: '057139_000656029'
+Traceback (most recent call last):
+  File "dva0.py", line 327, in <module>
+Traceback (most recent call last):
+  File "dva0.py", line 327, in <module>
+Traceback (most recent call last):
+  File "dva0.py", line 327, in <module>
+    main(sys.argv[1:])
+  File "dva0.py", line 247, in main
+    main(sys.argv[1:])
+  File "dva0.py", line 247, in main
+    fh = open(getopt.getopt(args,':')[1][0], "rb")
+IOError: [Errno 2] No such file or directory: '057139_000656029'
+    fh = open(getopt.getopt(args,':')[1][0], "rb")
+Traceback (most recent call last):
+  File "dva0.py", line 327, in <module>
+IOError: [Errno 2] No such file or directory: '057139_000656029'
+Traceback (most recent call last):
+    main(sys.argv[1:])
+  File "dva0.py", line 247, in main
+  File "dva0.py", line 327, in <module>
+Traceback (most recent call last):
+  File "dva0.py", line 327, in <module>
+    main(sys.argv[1:])
+      File "dva0.py", line 247, in main
+Traceback (most recent call last):
+  File "dva0.py", line 327, in <module>
+    fh = open(getopt.getopt(args,':')[1][0], "rb")
+Traceback (most recent call last):
+  File "dva0.py", line 327, in <module>
+main(sys.argv[1:])
+Traceback (most recent call last):
+  File "dva0.py", line 327, in <module>
+    fh = open(getopt.getopt(args,':')[1][0], "rb")
+    main(sys.argv[1:])
+    main(sys.argv[1:])
+IOError: [Errno 2] No such file or directory: '057139_000656029'
+Traceback (most recent call last):
+  File "dva0.py", line 327, in <module>
+  File "dva0.py", line 247, in main
+  File "dva0.py", line 247, in main
+    main(sys.argv[1:])
+    main(sys.argv[1:])
+IOError: [Errno 2] No such file or directory: '057139_000656029'
+Traceback (most recent call last):
+  File "dva0.py", line 327, in <module>
+  File "dva0.py", line 247, in main
+  File "dva0.py", line 247, in main
+    fh = open(getopt.getopt(args,':')[1][0], "rb")
+  File "dva0.py", line 247, in main
+    main(sys.argv[1:])
+    fh = open(getopt.getopt(args,':')[1][0], "rb")
+    main(sys.argv[1:])
+IOError: [Errno 2] No such file or directory: '057139_000656029'
+    fh = open(getopt.getopt(args,':')[1][0], "rb")
+    fh = open(getopt.getopt(args,':')[1][0], "rb")
+IOError: [Errno 2] No such file or directory: '057139_000656029'  File "dva0.py", line 247, in main
+
+    fh = open(getopt.getopt(args,':')[1][0], "rb")
+  File "dva0.py", line 247, in main
+IOError: [Errno 2] No such file or directory: '057139_000656029'
+IOError: [Errno 2] No such file or directory: '057139_000656029'
+Traceback (most recent call last):
+  File "dva0.py", line 327, in <module>
+Traceback (most recent call last):
+  File "dva0.py", line 327, in <module>
+Traceback (most recent call last):
+  File "dva0.py", line 327, in <module>
+Traceback (most recent call last):
+  File "dva0.py", line 327, in <module>
+Traceback (most recent call last):
+  File "dva0.py", line 327, in <module>
+        main(sys.argv[1:])
+  File "dva0.py", line 247, in main
+fh = open(getopt.getopt(args,':')[1][0], "rb")
+    fh = open(getopt.getopt(args,':')[1][0], "rb")
+IOError: [Errno 2] No such file or directory: '057139_000656029'
+IOError: [Errno 2] No such file or directory: '057139_000656029'
+IOError: [Errno 2] No such file or directory: '057139_000656029'
+    fh = open(getopt.getopt(args,':')[1][0], "rb")
+    main(sys.argv[1:])
+  File "dva0.py", line 247, in main
+IOError: [Errno 2] No such file or directory: '057139_000656029'
+    fh = open(getopt.getopt(args,':')[1][0], "rb")
+    main(sys.argv[1:])
+  File "dva0.py", line 247, in main
+    main(sys.argv[1:])
+IOError: [Errno 2] No such file or directory: '057139_000656029'
+  File "dva0.py", line 247, in main
+    fh = open(getopt.getopt(args,':')[1][0], "rb")
+    main(sys.argv[1:])
+  File "dva0.py", line 247, in main
+    fh = open(getopt.getopt(args,':')[1][0], "rb")
+IOError: [Errno 2] No such file or directory: '057139_000656029'
+IOError: [Errno 2] No such file or directory: '057139_000656029'
+    fh = open(getopt.getopt(args,':')[1][0], "rb")
+IOError: [Errno 2] No such file or directory: '057139_000656029'
+--------------------------------------------------------------------------
+mpirun noticed that the job aborted, but has no info as to the process
+that caused that situation.
+--------------------------------------------------------------------------

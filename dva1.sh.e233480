@@ -1,0 +1,389 @@
+Restoring modules to system default
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 264, in main
+    main(sys.argv[1:])
+  File "dva1.py", line 264, in main
+    main(sys.argv[1:])
+  File "dva1.py", line 264, in main
+    bp = savitzky_golay(bp,(fch-fcl)/16,2)
+    bp = savitzky_golay(bp,(fch-fcl)/16,2)
+NameError: global name 'fch' is not defined
+NameError: global name 'fch' is not defined
+    bp = savitzky_golay(bp,(fch-fcl)/16,2)
+NameError: global name 'fch' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 264, in main
+    bp = savitzky_golay(bp,(fch-fcl)/16,2)
+NameError: global name 'fch' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 264, in main
+    bp = savitzky_golay(bp,(fch-fcl)/16,2)
+NameError: global name 'fch' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 264, in main
+    bp = savitzky_golay(bp,(fch-fcl)/16,2)
+NameError: global name 'fch' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 264, in main
+    bp = savitzky_golay(bp,(fch-fcl)/16,2)
+NameError: global name 'fch' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 264, in main
+    bp = savitzky_golay(bp,(fch-fcl)/16,2)
+NameError: global name 'fch' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 264, in main
+    bp = savitzky_golay(bp,(fch-fcl)/16,2)
+NameError: global name 'fch' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 264, in main
+    bp = savitzky_golay(bp,(fch-fcl)/16,2)
+NameError: global name 'fch' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 264, in main
+    bp = savitzky_golay(bp,(fch-fcl)/16,2)
+NameError: global name 'fch' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 264, in main
+    bp = savitzky_golay(bp,(fch-fcl)/16,2)
+NameError: global name 'fch' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 264, in main
+    bp = savitzky_golay(bp,(fch-fcl)/16,2)
+NameError: global name 'fch' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 264, in main
+    bp = savitzky_golay(bp,(fch-fcl)/16,2)
+NameError: global name 'fch' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 264, in main
+    bp = savitzky_golay(bp,(fch-fcl)/16,2)
+NameError: global name 'fch' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 264, in main
+    bp = savitzky_golay(bp,(fch-fcl)/16,2)
+NameError: global name 'fch' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 264, in main
+    bp = savitzky_golay(bp,(fch-fcl)/16,2)
+NameError: global name 'fch' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 264, in main
+    bp = savitzky_golay(bp,(fch-fcl)/16,2)
+NameError: global name 'fch' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 264, in main
+    bp = savitzky_golay(bp,(fch-fcl)/16,2)
+NameError: global name 'fch' is not defined
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 264, in main
+    bp = savitzky_golay(bp,(fch-fcl)/16,2)
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 264, in main
+    bp = savitzky_golay(bp,(fch-fcl)/16,2)
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 264, in main
+    bp = savitzky_golay(bp,(fch-fcl)/16,2)
+NameError: global name 'fch' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 264, in main
+    bp = savitzky_golay(bp,(fch-fcl)/16,2)
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 264, in main
+    bp = savitzky_golay(bp,(fch-fcl)/16,2)
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 264, in main
+    bp = savitzky_golay(bp,(fch-fcl)/16,2)
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 264, in main
+    bp = savitzky_golay(bp,(fch-fcl)/16,2)
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 264, in main
+    bp = savitzky_golay(bp,(fch-fcl)/16,2)
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 264, in main
+    bp = savitzky_golay(bp,(fch-fcl)/16,2)
+NameError: global name 'fch' is not defined
+NameError: global name 'fch' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 264, in main
+    bp = savitzky_golay(bp,(fch-fcl)/16,2)
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 264, in main
+    bp = savitzky_golay(bp,(fch-fcl)/16,2)
+NameError: global name 'fch' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 264, in main
+    bp = savitzky_golay(bp,(fch-fcl)/16,2)
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 264, in main
+    bp = savitzky_golay(bp,(fch-fcl)/16,2)
+NameError: global name 'fch' is not defined
+NameError: global name 'fch' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 264, in main
+    bp = savitzky_golay(bp,(fch-fcl)/16,2)
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 264, in main
+    bp = savitzky_golay(bp,(fch-fcl)/16,2)
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 264, in main
+    bp = savitzky_golay(bp,(fch-fcl)/16,2)
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 264, in main
+    bp = savitzky_golay(bp,(fch-fcl)/16,2)
+NameError: global name 'fch' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 264, in main
+    bp = savitzky_golay(bp,(fch-fcl)/16,2)
+NameError: global name 'fch' is not defined
+NameError: global name 'fch' is not defined
+NameError: global name 'fch' is not defined
+NameError: global name 'fch' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 264, in main
+    bp = savitzky_golay(bp,(fch-fcl)/16,2)
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 264, in main
+    bp = savitzky_golay(bp,(fch-fcl)/16,2)
+Traceback (most recent call last):
+NameError: global name 'fch' is not defined
+NameError: global name 'fch' is not defined
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 264, in main
+    bp = savitzky_golay(bp,(fch-fcl)/16,2)
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 264, in main
+    bp = savitzky_golay(bp,(fch-fcl)/16,2)
+NameError: global name 'fch' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 264, in main
+    bp = savitzky_golay(bp,(fch-fcl)/16,2)
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 264, in main
+    bp = savitzky_golay(bp,(fch-fcl)/16,2)
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 264, in main
+    bp = savitzky_golay(bp,(fch-fcl)/16,2)
+NameError: global name 'fch' is not defined
+NameError: global name 'fch' is not defined
+NameError: global name 'fch' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 264, in main
+    bp = savitzky_golay(bp,(fch-fcl)/16,2)
+NameError: global name 'fch' is not defined
+NameError: global name 'fch' is not defined
+NameError: global name 'fch' is not defined
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 264, in main
+    bp = savitzky_golay(bp,(fch-fcl)/16,2)
+NameError: global name 'fch' is not defined
+NameError: global name 'fch' is not defined
+NameError: global name 'fch' is not defined
+NameError: global name 'fch' is not defined
+NameError: global name 'fch' is not defined
+NameError: global name 'fch' is not defined
+NameError: global name 'fch' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 264, in main
+    bp = savitzky_golay(bp,(fch-fcl)/16,2)
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 264, in main
+    bp = savitzky_golay(bp,(fch-fcl)/16,2)
+NameError: global name 'fch' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 264, in main
+    bp = savitzky_golay(bp,(fch-fcl)/16,2)
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 264, in main
+    bp = savitzky_golay(bp,(fch-fcl)/16,2)
+NameError: global name 'fch' is not defined
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 264, in main
+    bp = savitzky_golay(bp,(fch-fcl)/16,2)
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 264, in main
+    bp = savitzky_golay(bp,(fch-fcl)/16,2)
+NameError: global name 'fch' is not defined
+NameError: global name 'fch' is not defined
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 264, in main
+    bp = savitzky_golay(bp,(fch-fcl)/16,2)
+NameError: global name 'fch' is not defined
+NameError: global name 'fch' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 264, in main
+    bp = savitzky_golay(bp,(fch-fcl)/16,2)
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 264, in main
+    bp = savitzky_golay(bp,(fch-fcl)/16,2)
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 264, in main
+    bp = savitzky_golay(bp,(fch-fcl)/16,2)
+Traceback (most recent call last):
+NameError: global name 'fch' is not defined
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 264, in main
+    bp = savitzky_golay(bp,(fch-fcl)/16,2)
+Traceback (most recent call last):
+NameError: global name 'fch' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 264, in main
+    bp = savitzky_golay(bp,(fch-fcl)/16,2)
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 264, in main
+    bp = savitzky_golay(bp,(fch-fcl)/16,2)
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 264, in main
+    bp = savitzky_golay(bp,(fch-fcl)/16,2)
+Traceback (most recent call last):
+NameError: global name 'fch' is not defined
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 264, in main
+    bp = savitzky_golay(bp,(fch-fcl)/16,2)
+NameError: global name 'fch' is not defined
+NameError: global name 'fch' is not defined
+NameError: global name 'fch' is not defined
+NameError: global name 'fch' is not defined
+NameError: global name 'fch' is not defined
+NameError: global name 'fch' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 264, in main
+    bp = savitzky_golay(bp,(fch-fcl)/16,2)
+NameError: global name 'fch' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 264, in main
+    bp = savitzky_golay(bp,(fch-fcl)/16,2)
+NameError: global name 'fch' is not defined
+Traceback (most recent call last):
+  File "dva1.py", line 363, in <module>
+    main(sys.argv[1:])
+  File "dva1.py", line 264, in main
+    bp = savitzky_golay(bp,(fch-fcl)/16,2)
+NameError: global name 'fch' is not defined
+--------------------------------------------------------------------------
+mpirun noticed that the job aborted, but has no info as to the process
+that caused that situation.
+--------------------------------------------------------------------------

@@ -1,0 +1,1797 @@
+Restoring modules to system default
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+TypeError: 'float' object does not support item assignment
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+Traceback (most recent call last):
+  File "dv17p2.py", line 177, in <module>
+    std[i,rank,pol]=spectarray[i,:,pol,:].std()
+TypeError: 'float' object does not support item assignment
+--------------------------------------------------------------------------
+mpirun noticed that the job aborted, but has no info as to the process
+that caused that situation.
+--------------------------------------------------------------------------
