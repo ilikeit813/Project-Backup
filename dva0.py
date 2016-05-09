@@ -2,7 +2,7 @@
 #Codes from Sean, modified by Jamie
 #V3, super cluster technique
 
-from mpi4py import MPI
+#from mpi4py import MPI
 import sys
 import numpy
 import numpy as np
@@ -225,11 +225,13 @@ def savitzky_golay(y, window_size, order, deriv=0):
 
 
 def main(args):
-    comm = MPI.COMM_WORLD
-    rank = comm.Get_rank()
+    #comm = MPI.COMM_WORLD
+    comm = 0
+    #rank = comm.Get_rank()
+    rank = 0
     tunes = int(getopt.getopt(args,':')[1][1]) # 0: low, 1: hig, read in from your command line
-    nodes =  2 #89 #the number of node requensted in sh
-    pps   =  16 #processer per node requensted in sh
+    nodes =  1 #89 #the number of node requensted in sh
+    pps   =  1 #processer per node requensted in sh
 
     fcl =  6000+7000 #low frequency cut off
     fch =  fcl+3343 #high frequency cut off
@@ -352,12 +354,12 @@ def main(args):
                     cTime = cFrame.getTime()
                 data[aStand, count[aStand]*4096:(count[aStand]+1)*4096] = cFrame.data.iq
                 count[aStand] +=  1
-            for k in range(2):
-                masterSpectra[i,k,:] = (np.abs(np.fft.fftshift(np.fft.fft(data[k+2*tunes,:]))[1:])**2/LFFT)[fcl:fch]
+            #for k in range(2):
+                #masterSpectra[i,k,:] = (np.abs(np.fft.fftshift(np.fft.fft(data[k+2*tunes,:]))[1:])**2/LFFT)[fcl:fch]
             del(data)
-
+	    print fh.tell()
         outname = "%s_%i_fft_offset_%.9i_frames" % (getopt.getopt(args,':')[1][0], beam,offset)
-        numpy.save(outname[-46:], masterSpectra.mean(1)) # (x+y) /2
+        #numpy.save(outname[-46:], masterSpectra.mean(1)) # (x+y) /2
 
 if __name__ == "__main__":
         main(sys.argv[1:])

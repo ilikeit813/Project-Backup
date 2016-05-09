@@ -2,7 +2,7 @@
 #Codes from Sean, modified by Jamie
 #V3, super cluster technique
 
-from mpi4py import MPI
+#from mpi4py import MPI
 import sys
 import numpy
 import numpy as np
@@ -203,6 +203,7 @@ def savitzky_golay(y, window_size, order, deriv=0):
     if window_size % 2 != 1 or window_size < 1:
         raise TypeError("window_size size must be a positive odd number")
 	window_size += 1
+
     if window_size < order + 2:
         raise TypeError("window_size is too small for the polynomials order")
 
@@ -226,20 +227,21 @@ def savitzky_golay(y, window_size, order, deriv=0):
 
 
 def main(args):
-    comm  = MPI.COMM_WORLD
-    rank  = comm.Get_rank()
-    tune = 0 # 0 : low, 1: high
+    #comm  = MPI.COMM_WORLD
+    #rank  = comm.Get_rank()
+    rank = 0
+    tunes = int(getopt.getopt(args,':')[1][1]) # 0 : low, 1: high
 
-    nodes =  2 #89 #the number of node requensted in sh
-    pps   =  16 #processer per node requensted in sh
+    nodes =  1 #89 #the number of node requensted in sh
+    pps   =  1 #processer per node requensted in sh
     numberofFiles = nodes*pps #totalnumberofspec = 6895.
 
     maxpw = 10 #Maximum pulse width to search in seconds. default = 1 s.
     #dDM   = 1.0/(3700-360)*10 #1.0/len(freq)
     thresh= 5.0 #SNR cut off
 
-    DMstart= 9.15 #1.0 #initial DM trial
-    DMend  = 9.20 #90.0 #finial  DM trial
+    DMstart= 1 #1.0 #initial DM trial
+    DMend  = 40 #90.0 #finial  DM trial
 
     fcl =  6000 #low frequency cut off
     fch = 60000 #high frequency cut off
@@ -292,7 +294,6 @@ def main(args):
     npws = int(np.round(np.log2(maxpw/tInt)))+1 # +1 Due to in range(y) it goes to y-1 only
     freq1 = (freq+centralFreq1)[fcl:fch]
     freq2 = (freq+centralFreq2)[fcl:fch]
-    #print tInt,freq1.mean(),freq2.mean()
     masterSpectra = numpy.zeros((nChunks, 2, fch-fcl))
     for i in xrange(nChunks):
         # Find out how many frames remain in the file.  If this number is larger
@@ -303,8 +304,8 @@ def main(args):
             framesWork = nFramesAvg
         else:
             framesWork = framesRemaining
-        #if framesRemaining%(nFrames/10)==0:
-        #   print "Working on chunk %i, %i frames remaining" % (i, framesRemaining)
+        if framesRemaining%(nFrames/10)==0:
+           print "Working on chunk %i, %i frames remaining" % (i, framesRemaining)
         count = {0:0, 1:0, 2:0, 3:0}
         data = numpy.zeros((4,framesWork*4096/beampols), dtype=numpy.csingle)
         # If there are fewer frames than we need to fill an FFT, skip this chunk
@@ -335,40 +336,56 @@ def main(args):
         #masterSpectra[i,1,:] = numpy.fft.fftshift(numpy.abs(numpy.fft.fft2(data[2:,:]))[:,1:])[:,fcl:fch].mean(0)**2./LFFT/2. #in unit of energy
 
         for k in range(2):
-            masterSpectra[i,k,:] = (np.abs(np.fft.fftshift(np.fft.fft(data[k+tune+1,:]))[1:])**2/LFFT)[fcl:fch]
+            masterSpectra[i,k,:] = (np.abs(np.fft.fftshift(np.fft.fft(data[k+2*tunes,:]))[1:])**2/LFFT)[fcl:fch]
         del(data)
 #=================================================================
-
     spectarray = masterSpectra.mean(1) # (x+y) /2
     del(masterSpectra)
 
+    np.save('jamie_raw',spectarray)
     #remove baseline
     spectarray /= np.median(spectarray)
+
     #remove bandpass
-    bp = np.zeros((nodes*pps, fch-fcl))
-    bp[rank,:]= np.median(spectarray, 0)
-    bpall=bp*0. #initiate a 4 hour blank std
-    comm.Allreduce(bp,bpall,op=MPI.SUM) #merge the 4 hour std from all processor
+    bp = np.median(spectarray, 0)
+    bpall = bp*0. #initiate a 4 hour blank std
+    #comm.Allreduce(bp,bpall,op=MPI.SUM) #merge the 4 hour std from all processor
+    bpall += bp
     if rank == 0:
         np.save('bpall',bpall)
-    bp = np.median(bpall,0)
-    bp = savitzky_golay(bp,151,2)
+    bp = bpall/nodes/pps
+    bp = savitzky_golay(bp,(fch-fcl)/16,2)
     spectarray /= bp
+
+    np.save('jamie',spectarray)
+    sys.exit()
 
     #RFI removal in frequency domain
     std=np.zeros((nodes*pps))
-    std[rank]=np.median(spectarray, 0).std()
+    std[rank] = spectarray.mean(0).std()
     stdall=std*0. #initiate a 4 hour blank std
-    comm.Allreduce(std,stdall,op=MPI.SUM) #merge the 4 hour std from all processor
+    #comm.Allreduce(std,stdall,op=MPI.SUM) #merge the 4 hour std from all processor
+    stdall += std
     if rank ==0:
-        np.save('stdall',stdall)
-    spectarray[:,spectarray.mean(0) > np.median(spectarray) + 3*stdall.min()] = np.median(spectarray)
+        np.save('stdallf',stdall)
+    spectarray[:,spectarray.mean(0) > spectarray.mean(0) + 3*stdall.min()] = np.median(spectarray)
 
-    if tune == 0:
+    #RFI removal in temporal domain
+    std=np.zeros((nodes*pps))
+    std[rank]=np.median(spectarray, 1).std()
+    stdall=std*0. #initiate a 4 hour blank std
+    #comm.Allreduce(std,stdall,op=MPI.SUM) #merge the 4 hour std from all processor
+    stdall += std
+    if rank == 0:
+        np.save('stdallt',stdall)
+    spectarray[spectarray.mean(1) > spectarray.mean(1) + 3*stdall.min(), :] = np.median(spectarray)
+
+
+    if tunes == 0:
         freq=freq1
     else: 
         freq=freq2
-    freq /= freq/10**6
+    freq /= 10**6
     cent_freq = np.median(freq)
     BW   = freq.max()-freq.min()
     DM=DMstart
@@ -379,8 +396,9 @@ def main(args):
     tbmax=0 #repeat control, if dedispersion time series are identical, skip dedispersion calculation
     while DM < DMend:
         if DM >=1000.: dDM = 1.
-        else: dDM = 0.02
+        else: dDM = 10
         tb=np.round((delay2(freq,DM)/tInt)).astype(np.int32)
+	#'''
         if tb.max()-tbmax==0:#identical dedispersion time series checker
             tbmax=tb.max()
             #DM+=dDM*DM
@@ -389,15 +407,17 @@ def main(args):
             #if rank ==0:
             #   print 'DM',DM,'skipped'
             continue
+	#'''
+
         tbmax=tb.max()
-        ts=np.zeros((tb.max()+numberofFiles*np.load(fn[0],mmap_mode='r').shape[0]))
+        ts=np.zeros((tb.max()+numberofFiles*spectarray.shape[0]))
         for freqbin in range(len(freq)): 
-            ts[tb.max()-tb[freqbin] + rank*spect.shape[0] :tb.max()-tb[freqbin] + (rank+1)*spect.shape[0] ] += spectarray[:,freqbin]
+            ts[tb.max()-tb[freqbin] + rank*spectarray.shape[0] :tb.max()-tb[freqbin] + (rank+1)*spectarray.shape[0] ] += spectarray[:,freqbin]
 
         tstotal=ts*0#initiate a 4 hour blank time series
-        comm.Allreduce(ts,tstotal,op=MPI.SUM)#merge the 4 hour timeseries from all processor
+        #comm.Allreduce(ts,tstotal,op=MPI.SUM)#merge the 4 hour timeseries from all processor
+	tstotal += ts
         tstotal = tstotal[tb.max():len(tstotal)-tb.max()]#cut the dispersed time lag
-
         #'''
         # save the time series around the Pulsar's DM
         if rank == 0:
@@ -433,7 +453,6 @@ def main(args):
                     txtsize[ranki,0]+=1
                     filename = "pp_SNR_pol_%.1i_td_%.2i_no_%.05d.txt" % (pol,ranki,txtsize[ranki,0])
                     outfile = open(filename,'a')
-
         #DM+=dDM*DM # End of DM loop
         DM+=dDM # End of DM loop
 if __name__ == "__main__":
